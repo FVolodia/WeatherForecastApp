@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DetailInfo">
+        <attr name="value" format="string" />
+        <attr name="hint" format="string|reference" />
+        <attr name="android:src" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">WeatherForecastApp</string>
+    <string name="humadity">Humadity</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="delete">Delete</string>
 </resources>

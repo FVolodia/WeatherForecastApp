@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="place_api_key" translatable="false">AIzaSyAVChiD6NRO85wBZj9qXowzHA1kZsgIYfw</string>
+    <string name="date_pattern_full_api" translatable="false">yyyy-MM-dd\'T\'HH:mm:ss.SSSZ</string>
+    <string name="date_pattern_comment">d LLL, hh:mm a</string>
+</resources>
